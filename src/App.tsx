@@ -122,7 +122,7 @@ function App() {
             <div className="flex justify-end mt-1">
               <a
                 className="text-right text-xs text-cyan-600 hover:underline"
-                href="https://github.com/vrcalphabet/web-fs-glob-test/releases/download/v1.0.0/web-fs-glob-fixture.zip"
+                href="https://github.com/vrcalphabet/web-fs-glob-test/releases/download/v1.0.0/web-fs-glob-fixtures.zip"
                 download
               >
                 サンプルフォルダをダウンロード
