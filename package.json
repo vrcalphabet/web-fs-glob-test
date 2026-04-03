@@ -15,7 +15,7 @@
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-scroll-sync": "^1.0.2",
-    "web-fs-glob": "^1.0.1"
+    "web-fs-glob": "^1.0.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
